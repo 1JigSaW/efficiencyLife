@@ -1,1 +1,1 @@
-"# efficiencyLife" 
+# efficiencyLife
